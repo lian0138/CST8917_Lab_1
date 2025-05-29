@@ -3,6 +3,9 @@
 
 This guide provides setup instructions for two Azure Functions using Python 3.10 in Visual Studio Code, following the provided Microsoft tutorials. One function uses an HTTP trigger to store data in an Azure Storage Queue, and the other stores data in an Azure SQL Database. Instructions include Azure resources and local testing.
 
+This is the YouTube link of the Lab
+https://youtu.be/P1alDWdVGBA
+
 ## Azure Function with HTTP Trigger and Storage Queue Output
 
 **Objective**: Create an HTTP trigger function that stores data in an Azure Storage Queue.
